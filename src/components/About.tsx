@@ -6,10 +6,10 @@ import { Card, CardContent } from "@/components/ui/card";
 
 export function About() {
   const skills = [
-    { name: "Diseño UI/UX", icon: "🎨" },
+    { name: "Analisis funcional", icon: "🎨" },
     { name: "Desarrollo Frontend", icon: "💻" },
-    { name: "Fotografía", icon: "📷" },
-    { name: "Animación", icon: "✨" },
+    { name: "Creatividad", icon: "📷" },
+    { name: "Project manager", icon: "✨" },
   ];
 
   const fadeIn = {
